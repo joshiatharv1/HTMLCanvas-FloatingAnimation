@@ -4,7 +4,7 @@ This is a simple particle animation using HTML5 Canvas and JavaScript. The parti
 
 ## Demo
 
-![Particle Animation](Screenshot 2024-09-03 141311.png)
+![Particle Animation](screenshot.png)
 
 ## Features
 
